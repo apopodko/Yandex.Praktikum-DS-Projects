@@ -28,6 +28,7 @@
 ## Использованные методы и библиотеки
 - Pandas
 - Numpy
+- Geopy
 - Seaborn
 - Matplotlib
 - EDA
