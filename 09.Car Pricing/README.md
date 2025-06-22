@@ -1,4 +1,5 @@
 # Предсказание стоимости жилья
+![image](https://github.com/user-attachments/assets/fe939a8f-ce1e-4d64-b646-044516ffa2c7)
 
 ## Описание проекта
 **Заказчик**
