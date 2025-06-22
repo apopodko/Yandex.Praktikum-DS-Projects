@@ -1,4 +1,5 @@
 # Прогнозирование заказов такси
+![image](https://github.com/user-attachments/assets/f3e5bdac-1d77-43c6-a69f-cf02b476d943)
 
 ## Описание проекта
 **Заказчик**
