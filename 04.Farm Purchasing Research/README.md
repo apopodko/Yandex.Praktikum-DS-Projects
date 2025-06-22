@@ -1,4 +1,5 @@
 # Модель для снижения рисков хозяйства при покупке коров
+![image](https://github.com/user-attachments/assets/7985f8a9-57d0-4209-9851-57b2947ea4be)
 
 ## Описание проекта
 **Заказчик** - фермер, владелец молочного хозяйства «Вольный луг»
@@ -16,11 +17,14 @@
 ## Использованные методы и библиотеки
 - Pandas
 - Numpy
+- re
 - Seaborn
 - Matplotlib
 - Scikit-learn
 - Scipy
+- Phik
 - EDA
+- Machine Learning
 - Statistical Hypothesis Testing
 - Data visualization
 - Data preprocessing
