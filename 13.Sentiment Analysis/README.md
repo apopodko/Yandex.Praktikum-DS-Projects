@@ -29,6 +29,7 @@
     - LogisticRegression - 0.777
     - CatBoost - 0.769
     - LGBM - 0.768
+![image](https://github.com/user-attachments/assets/83079881-9fc2-414b-8f24-fd1ac3f617c6)
 
 
 ## Использованные методы и библиотеки
