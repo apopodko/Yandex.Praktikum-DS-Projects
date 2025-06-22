@@ -1,4 +1,5 @@
 # Персонализация предложений интернет-магазина "В один клик"
+![image](https://github.com/user-attachments/assets/910856a9-dba2-496b-be92-a91b83437b3d)
 
 ## Описание проекта
 **Заказчик** 
@@ -36,6 +37,7 @@
 - Scipy
 - Optuna
 - Phik
+- Shap
 - Machine Learning
 - Hyperparameter optimization
 - EDA
