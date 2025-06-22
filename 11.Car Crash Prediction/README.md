@@ -1,4 +1,5 @@
 # Предсказание ДТП
+![image](https://github.com/user-attachments/assets/61be368e-0379-4a84-a812-fa35afb22a27)
 
 ## Описание проекта
 **Заказчик**
