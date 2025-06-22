@@ -1,5 +1,5 @@
 # Предсказание статуса деятельности стартапа
-![image](https://github.com/user-attachments/assets/25bf9b53-3977-467b-8243-e69c1eca84f6)
+![image](https://github.com/user-attachments/assets/4617197d-472b-4ca6-b048-6db2c531b107)
 
 ## Описание проекта
 **Заказчик**
