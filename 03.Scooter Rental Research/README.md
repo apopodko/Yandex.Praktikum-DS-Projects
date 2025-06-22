@@ -34,5 +34,6 @@
 - Scikit-learn
 - Scipy
 - EDA
+- Statistical Hypothesis Testing
 - Data visualization
 - Data preprocessing
