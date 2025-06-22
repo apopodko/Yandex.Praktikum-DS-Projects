@@ -1,4 +1,5 @@
 # Поиск по изображениям
+![image](https://github.com/user-attachments/assets/924924fc-18b1-4dca-a488-0a00a2fa2148)
 
 ## Описание проекта
 **Заказчик**
