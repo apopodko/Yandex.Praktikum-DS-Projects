@@ -1,4 +1,5 @@
 # Выбор локации для скважины
+![image](https://github.com/user-attachments/assets/0bcc079c-503a-4deb-b0ed-4d780e7f1ccc)
 
 ## Описание проекта
 **Заказчик**
