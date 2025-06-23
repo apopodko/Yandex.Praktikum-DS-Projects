@@ -36,5 +36,4 @@
 - CatBoost
 - Machine Learning
 - Hyperparameter optimization
-- Bootstrap
 - EDA
