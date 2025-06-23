@@ -31,7 +31,9 @@
 - Scikit-learn
 - Scipy
 - Phik
+- Optuna
 - LightGBM
+- CatBoost
 - Machine Learning
 - Hyperparameter optimization
 - Bootstrap
