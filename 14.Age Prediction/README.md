@@ -30,11 +30,9 @@
 - Numpy
 - Seaborn
 - Matplotlib
-- Scikit-learn
 - Scipy
-- Phik
-- LightGBM
-- Machine Learning
+- TensorFlow
+- Computer Vision
+- Keras
 - Hyperparameter optimization
-- Bootstrap
 - EDA
