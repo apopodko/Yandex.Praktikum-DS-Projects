@@ -32,13 +32,17 @@
 ## Использованные методы и библиотеки
 - Pandas
 - Numpy
+- SQLAlchemy
 - Seaborn
 - Matplotlib
 - Scikit-learn
 - Scipy
 - Phik
+- HyperOpt
+- SHAP
 - LightGBM
+- SQL
 - Machine Learning
 - Hyperparameter optimization
-- Bootstrap
+- Hypothesis developing 
 - EDA
