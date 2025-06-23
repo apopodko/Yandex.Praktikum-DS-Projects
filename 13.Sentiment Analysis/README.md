@@ -38,10 +38,15 @@
 - Seaborn
 - Matplotlib
 - Scikit-learn
-- Scipy
+- NLTK
+- PyTorch
+- Transformers
 - Phik
 - LightGBM
-- Machine Learning
+- СatBoost
+- HyperOpt
+- NLP
+- ML
+- Transformers
 - Hyperparameter optimization
-- Bootstrap
 - EDA
