@@ -30,10 +30,11 @@
 - Numpy
 - Seaborn
 - Matplotlib
-- Scikit-learn
-- Scipy
+- pySpark
 - Phik
-- LightGBM
+- Histogrammar
+- Large Scale data analysis
+- Spark
 - Machine Learning
 - Hyperparameter optimization
 - Bootstrap
