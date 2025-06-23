@@ -33,5 +33,4 @@
 - Neural Networks
 - Machine Learning
 - Hyperparameter optimization
-- Bootstrap
 - EDA
