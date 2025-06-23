@@ -29,10 +29,14 @@
 - Seaborn
 - Matplotlib
 - Scikit-learn
-- Scipy
+- SQLAlchemy
 - Phik
+- HyperOpt
+- PyTorch-Tabnet
 - LightGBM
+- CatBoost
 - Machine Learning
+- Neural Net
+- Stecking
 - Hyperparameter optimization
-- Bootstrap
 - EDA
