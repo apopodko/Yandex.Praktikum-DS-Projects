@@ -30,8 +30,7 @@
 - Scikit-learn
 - Scipy
 - Phik
-- LightGBM
+- Bootstrap
 - Machine Learning
 - Hyperparameter optimization
-- Bootstrap
 - EDA
