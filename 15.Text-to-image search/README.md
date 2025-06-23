@@ -25,11 +25,14 @@
 - Numpy
 - Seaborn
 - Matplotlib
-- Scikit-learn
-- Scipy
-- Phik
-- LightGBM
-- Machine Learning
+- Spacy
+- Transformers
+- Tensorflow
+- CUDA
+- Computer Vision
+- NLP
+- Text-to-Image
+- CLIP
 - Hyperparameter optimization
 - Bootstrap
 - EDA
