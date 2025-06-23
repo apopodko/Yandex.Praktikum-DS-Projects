@@ -27,9 +27,10 @@
 - Seaborn
 - Matplotlib
 - Scikit-learn
-- Scipy
+- PyTorch
 - Phik
-- LightGBM
+- HyperOpt
+- Neural Networks
 - Machine Learning
 - Hyperparameter optimization
 - Bootstrap
