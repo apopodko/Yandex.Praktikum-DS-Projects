@@ -31,8 +31,10 @@
 - Scikit-learn
 - Scipy
 - Phik
+- CatBoost
 - LightGBM
+- pgeocode
+- Gradient Boosting
 - Machine Learning
 - Hyperparameter optimization
-- Bootstrap
 - EDA
