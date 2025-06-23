@@ -35,10 +35,10 @@
 - Seaborn
 - Matplotlib
 - Scikit-learn
-- Scipy
-- Phik
+- HyperOpt
 - LightGBM
+- Prophet
+- Time Series
 - Machine Learning
 - Hyperparameter optimization
-- Bootstrap
 - EDA
