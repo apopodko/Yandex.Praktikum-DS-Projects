@@ -31,6 +31,7 @@
 - Scikit-learn
 - Scipy
 - Phik
+- SHAP
 - Optuna
 - LightGBM
 - CatBoost
