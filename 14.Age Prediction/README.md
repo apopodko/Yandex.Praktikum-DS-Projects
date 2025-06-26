@@ -33,6 +33,7 @@
 - Scipy
 - TensorFlow
 - Computer Vision
+- CNN
 - Keras
 - Hyperparameter optimization
 - EDA
