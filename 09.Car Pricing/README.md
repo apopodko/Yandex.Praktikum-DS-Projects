@@ -35,6 +35,7 @@
 - LightGBM
 - pgeocode
 - Gradient Boosting
-- Machine Learning
+- Ensemble
+- Linear Regression
 - Hyperparameter optimization
 - EDA
