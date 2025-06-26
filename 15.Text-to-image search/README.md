@@ -34,5 +34,6 @@
 - Text-to-Image
 - CLIP
 - Hyperparameter optimization
-- Bootstrap
+- Transformers
+- CNN
 - EDA
