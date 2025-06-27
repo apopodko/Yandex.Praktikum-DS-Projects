@@ -1,4 +1,5 @@
 # Yandex.Praktikum Data Science Projects
+![68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a75565030577745574f747048733430452e706e67](https://github.com/user-attachments/assets/883dcd1e-f447-4d41-b078-5506b5213580)
 
 Репозиторий с портфоило выполненных проектов во время обучения в Яндекс Практикуме по программе Data Science +
 
