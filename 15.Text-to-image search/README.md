@@ -33,7 +33,6 @@
 - NLP
 - Text-to-Image
 - CLIP
-- Hyperparameter optimization
 - Transformers
 - CNN
 - EDA
