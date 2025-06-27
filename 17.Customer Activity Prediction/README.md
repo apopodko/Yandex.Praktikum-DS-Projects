@@ -61,8 +61,8 @@
     - `email_count` - сколько через `email`
     - `main_campaign` - основная кампания рассылки
  
-![image](https://github.com/user-attachments/assets/b82d1d0a-f22f-4a79-b906-9a0f0cc22529)
-![image](https://github.com/user-attachments/assets/9779542f-0de5-47f1-a170-770148403d19)
+![image](https://github.com/user-attachments/assets/8172f6cb-2fa8-4637-a3bb-b2378461d50c)
+
 
 
 
@@ -83,15 +83,14 @@
     - `ROC-AUC` - 0.76
     - `Weigthed Recall` - 0.63
     - `Weighted F1 score` - 0.843
-![image](https://github.com/user-attachments/assets/f4aa06af-246e-4ed6-9f0c-a9f366860bd1)
-
 
 
 - Для более прикладного результата выбрали порог 0.7 для классификатора, чтобы около 10% клиентов, на которых заказчик направил усилия совершили покупку. В результате получаются следующие метрики:
     - `ROC-AUC` - 0.760
     - `Weigthed Recall` - 0.297
     - `Weighted F1 score` - 0.949
-![image](https://github.com/user-attachments/assets/746c5a35-6412-43c5-b271-916ae846c6a4)
+![image](https://github.com/user-attachments/assets/656741bc-d9f7-4d31-b62f-1db14dcc6f6a)
+
 
     
     
